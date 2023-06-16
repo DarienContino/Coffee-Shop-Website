@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>CC-Home</title>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+	<link href="page1.css" rel="stylesheet">
+</head>
+<body>
+
+<img src="cc_map.png" >
+
+	<div class="box-area">
+		<header>
+			<div class="wrapper">
+				<div class="logo">
+					<a href="#">Contino Coffee</a>
+				</div>
+				<nav>
+					<a href="page_home.html">Home</a> <a href="page_menu.html">Menu</a> <a href="page_reviews.html">Reviews</a>
+				</nav>
+			</div>
+		</header>
+		<div class="banner-area">
+		</div>
+		<div class="content-area">
+			<div class="wrapper">
+				<h2>Mission Statement</h2>
+					<p>To inspire and nurture the human spirit – one person, one cup and one neighborhood at a time. We strive to provide our customers the world's best freshly roasted coffee with excellent service at a price that is fair to the producers and our customers. Our commitment to best practices towards customer service, our employees, the environment and our community defines our brand.</p>
+				<h2>Hours of Operation</h2>
+					<p>Monday (6:00am - 8:00pm)</p>
+					<p>Tuesday (6:00am - 8:00pm)</p>
+					<p>Wednesday (6:00am - 8:00pm)</p>
+					<p>Thursday (6:00am - 8:00pm)</p>
+					<p>Friday (6:00am - 8:00pm)</p>
+					<p>Saturday (8:00am - 6:00pm)</p>
+					<p>Sunday (Closed)</p>
+				<h2>Location</h2>
+				<p>980 E Pecos Rd
+				Chandler, AZ 85225</p>
+				<p/>(480) 770-3935</p>
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>

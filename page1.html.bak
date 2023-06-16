@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!--
+    Home Page
+    Author: Darien Contino
+    Date: 12/05/2021
+
+    Filename: page1.html
+   -->
+   
+	<meta charset="utf-8" />
+	<title>Contino Coffee</title>
+	<link href="page1.css" rel="stylesheet" />
+
+</head>
+
+<body>
+   <header>
+      <img src="pc_logo.png" alt="Pandaisia Chocolates" />
+      <nav class="horizontalNavigation">
+         <ul>
+            <li><a href="pc_home.html">Home</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#">About Us</a></li>
+            
+         </ul>
+      </nav>
+   </header>
+   
+      </section>
+   </footer>
+</body>
+</html>
+
